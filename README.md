@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @BinaryP0P
-- 👀 I’m interested in Paintball, Basketball, Reverse Engineering, Binary Exploitation and Software Engineering 
+- 👀 I’m interested in Paintball, Basketball, Reverse Engineering, Vulnerability Research and Software Engineering
+            - Networking Protocols
+            - User-Mode Applications
+            - Windows Kernel & Virtualization 
+            - IOS ARM Platform 
 - 💞️ I’m looking to collaborate on tools and projects related to offensive and defensive cyber security
 
 <!---
